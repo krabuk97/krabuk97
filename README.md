@@ -2,7 +2,7 @@
 
 # Ruslan Cheberdyn - Python developer
 
-Welcome to my GitHub profile! I'm Ruslan Cheberdyn, a passionate Junior QA Engineer with a diverse background in animal protection interventions and store management. I am excited about software testing and ensuring high-quality products through thorough testing processes. 
+Welcome to my GitHub profile! I'm Ruslan Cheberdyn, a passionate Python developer with a diverse background in animal protection interventions and store management.
 
 ## Experience
 
@@ -48,6 +48,3 @@ I have also worked on developing and executing functional tests for the GitHub w
 
 - SoloLearn: Python for Beginners, Python Core, SQL, Python Data Structures, HTML, Python for Data Science
 
-Feel free to explore my repositories to see my projects and contributions. If you have any questions or would like to discuss potential collaborations, please don't hesitate to reach out to me.
-
-Let's make software testing an integral part of building exceptional products together!
