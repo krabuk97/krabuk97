@@ -1,6 +1,6 @@
 
 
-# Ruslan Cheberdyn - Junior QA Engineer
+# Ruslan Cheberdyn - Python developer
 
 Welcome to my GitHub profile! I'm Ruslan Cheberdyn, a passionate Junior QA Engineer with a diverse background in animal protection interventions and store management. I am excited about software testing and ensuring high-quality products through thorough testing processes. 
 
